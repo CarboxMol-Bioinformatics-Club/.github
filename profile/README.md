@@ -10,7 +10,20 @@
   [![Live Portal](https://img.shields.io/badge/Official%20Portal-CarboxMol--Bioinformatics--Club.github.io-06b6d4?style=for-the-badge&logo=githubpages&logoColor=white)](https://carboxmol-bioinformatics-club.github.io)
   [![University](https://img.shields.io/badge/University-Western%20Caspian%20University-blue?style=for-the-badge)](https://wcu.edu.az)
   [![Studio Engine](https://img.shields.io/badge/3D%20Engine-CarboxMol%20Studio-teal?style=for-the-badge)](https://carboxmol-bioinformatics-club.github.io)
+  [![Data Access](https://img.shields.io/badge/Research_Data-Private_🔒-f59e0b?style=for-the-badge)](mailto:suleyman.hacizade.232bioing@wcu.edu.az?subject=Access%20Request%20-%20CarboxMol%20Bioinformatics%20Club%20Private%20Data)
+  [![Request Access](https://img.shields.io/badge/Request_Access-Email_Chair-ef4444?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suleyman.hacizade.232bioing@wcu.edu.az?subject=Access%20Request%20-%20CarboxMol%20Bioinformatics%20Club%20Private%20Data)
 </div>
+
+---
+
+> [!IMPORTANT]
+> ### 🔒 Məxfi Datalar və Giriş İcazəsi (Private Research Data & Repository Access Notice)
+>
+> **🇦🇿 Azərbaycan dili:** CarboxMol Bioinformatika Klubunun əsas elmi tədqiqat verilənləri, struktur analiz skriptləri, daxili tədris bazası və mərkəzi kod repozitoriyası (**`CarboxMol-Bioinformatics-Club`**) **məxfidir (Private)**. Tələbələr, müəllimlər, beynəlxalq tədqiqatçılar və ya elmi əməkdaşlıq üçün giriş icazəsi (**Access**) əldə etmək istəyənlər rəsmi elektron poçt ünvanımıza müraciət edə bilərlər:
+> - 📧 **Rəsmi E-poçt:** [**suleyman.hacizade.232bioing@wcu.edu.az**](mailto:suleyman.hacizade.232bioing@wcu.edu.az?subject=CarboxMol%20Bioinformatics%20Club%20-%20Private%20Data%20Access%20Request) / [**suleyman.hacizade1@gmail.com**](mailto:suleyman.hacizade1@gmail.com?subject=CarboxMol%20Bioinformatics%20Club%20-%20Private%20Data%20Access%20Request)
+>
+> **🇬🇧 English:** All primary research datasets, crystallographic/genomic analysis pipelines, internal syllabi databases, and the core backend repository (**`CarboxMol-Bioinformatics-Club`**) are **Private**. If you are a student, faculty member, researcher, or institutional collaborator wishing to request repository or data **access**, please contact the leadership directly:
+> - 📧 **Email:** [**suleyman.hacizade.232bioing@wcu.edu.az**](mailto:suleyman.hacizade.232bioing@wcu.edu.az?subject=CarboxMol%20Bioinformatics%20Club%20-%20Private%20Data%20Access%20Request) / [**suleyman.hacizade1@gmail.com**](mailto:suleyman.hacizade1@gmail.com?subject=CarboxMol%20Bioinformatics%20Club%20-%20Private%20Data%20Access%20Request)
 
 ---
 
@@ -33,10 +46,10 @@ Klub üzvləri dünya miqyaslı bioloji verilənlər bazaları (RCSB PDB, AlphaF
 
 ## 📂 Rəsmi Repozitoriyalarımız (Repositories)
 
-| Repozitoriya | Status | Təsvir |
-| :--- | :---: | :--- |
-| [**CarboxMol-Bioinformatics-Club.github.io**](https://github.com/CarboxMol-Bioinformatics-Club/CarboxMol-Bioinformatics-Club.github.io) | **Public** | 🌐 Rəsmi interaktiv veb-portal, 3D kristalloqrafik studiya, PWA oflayn dəstək və tələbə LMS kabineti. |
-| [**CarboxMol-Bioinformatics-Club**](https://github.com/CarboxMol-Bioinformatics-Club/CarboxMol-Bioinformatics-Club) | **Private** | 🗄️ Əsas mənbə kodu, elmi əsasnamələr, sillabuslar, daxili layihələr və arxiv sistemi. |
+| Repozitoriya | Status | Təsvir | Giriş / Access |
+| :--- | :---: | :--- | :---: |
+| [**CarboxMol-Bioinformatics-Club.github.io**](https://github.com/CarboxMol-Bioinformatics-Club/CarboxMol-Bioinformatics-Club.github.io) | **Public** | 🌐 Rəsmi interaktiv veb-portal, 3D kristalloqrafik studiya, PWA oflayn dəstək və tələbə LMS kabineti. | [🔗 Canlı Portal](https://carboxmol-bioinformatics-club.github.io) |
+| [**CarboxMol-Bioinformatics-Club**](https://github.com/CarboxMol-Bioinformatics-Club/CarboxMol-Bioinformatics-Club) | 🔒 **Private** | 🗄️ Əsas mənbə kodu, elmi əsasnamələr, sillabuslar, daxili layihələr və 40 fayllıq mərkəzi LLM Viki bazası. | [📧 Access Müraciəti](mailto:suleyman.hacizade.232bioing@wcu.edu.az?subject=CarboxMol%20Bioinformatics%20Club%20-%20Private%20Data%20Access%20Request) |
 
 ---
 
@@ -44,7 +57,8 @@ Klub üzvləri dünya miqyaslı bioloji verilənlər bazaları (RCSB PDB, AlphaF
 
 * **Təşkilat:** CarboxMol Bioinformatika Klubu (Western Caspian University)
 * **Klub Sədri və Təsisçi:** Süleyman Mehdi oğlu Hacızadə
-* **Əlaqə E-poçtu:** [suleyman.hacizade.232bioing@wcu.edu.az](mailto:suleyman.hacizade.232bioing@wcu.edu.az)
+* **Rəsmi Universitet E-poçtu:** [suleyman.hacizade.232bioing@wcu.edu.az](mailto:suleyman.hacizade.232bioing@wcu.edu.az)
+* **Şəxsi / Tədqiqatçı E-poçtu:** [suleyman.hacizade1@gmail.com](mailto:suleyman.hacizade1@gmail.com)
 * **Telefon / WhatsApp:** +994 70 550 69 07 | +994 99 350 69 07
 * **Məkan:** Əhməd Rəcəbli korpusu, Qərbi Kaspi Universiteti, Bakı, Azərbaycan
 * **Rəsmi Portal:** [https://carboxmol-bioinformatics-club.github.io](https://carboxmol-bioinformatics-club.github.io)
